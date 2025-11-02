@@ -20,7 +20,7 @@ The objectives of this assignment are to:
 🧩 Repository Structure
 ├── Part1_Theoretical_Analysis.pdf
 │   
-│── Part1_Theoretical_Analysis.pdf
+│── Part2_task1_code_completion.ipynb
 ├
 ├── Part2_Task2_AutomatedTesting/
 │   ├── ai_login_test.py
@@ -51,7 +51,7 @@ The objectives of this assignment are to:
     
     Predictive analytics for defect detection and code optimization.
 
-📄 Deliverable: Part1_Theoretical_Answers.and .pdf
+📄 Deliverable: Part1_Theoretical_Answers.pdf
 
 ⚙️ Part 2: Practical Applications
 Task 2: Automated Testing
@@ -62,23 +62,23 @@ Task 2: Automated Testing
     
     Demonstrated how AI improves code coverage, error detection, and test prioritization.
 
-📄 Deliverable: Automated_Testing_Script.ipynb
+📄 Deliverable: Part2_task1_code_completion.ipynb
 
 Task 3: Predictive Analytics
 
-Built a predictive model using a dataset of software development metrics.
-
-Preprocessed and cleaned data with pandas.
-
-Trained a machine learning model (e.g., Random Forest or Linear Regression) to predict software performance indicators such as defect density or delivery time.
-
-Evaluated model accuracy using metrics like MAE, RMSE, and R².
-
-Discussed ethical implications and data fairness.
+    Built a predictive model using a dataset of software development metrics.
+    
+    Preprocessed and cleaned data with pandas.
+    
+    Trained a machine learning model (e.g., Random Forest or Linear Regression) to predict software performance indicators such as defect density or delivery time.
+    
+    Evaluated model accuracy using metrics like MAE, RMSE, and R².
+    
+    Discussed ethical implications and data fairness.
 
 📊 Deliverables:
 
-Predictive_Model_Notebook.ipynb
+Part2_Task3_PredictiveAnalytics.ipynb
 
 cleaned_dataset.csv
 
@@ -86,100 +86,99 @@ Trained model file model.pkl
 
 🌍 Part 3: Ethical Reflection (10%)
 
-Prompt:
-Your predictive model from Task 3 is deployed in a company.
-
-Discussion includes:
-
-Potential biases in the dataset (e.g., underrepresented teams, incomplete metrics).
-
-How AI Fairness 360 (AIF360) by IBM can detect and mitigate unfair outcomes.
-
-Strategies to improve model transparency, accountability, and explainability.
+    Prompt:
+    Your predictive model from Task 3 is deployed in a company.
+    
+    Discussion includes:
+    
+    Potential biases in the dataset (e.g., underrepresented teams, incomplete metrics).
+    
+    How AI Fairness 360 (AIF360) by IBM can detect and mitigate unfair outcomes.
+    
+    Strategies to improve model transparency, accountability, and explainability.
 
 📄 Deliverables:
-
-Ethical_Reflection.docx
-
-Ethical_Reflection.pdf
+Part 3_Ethical_Reflection.pdf
 
 💡 Bonus Task: AI Innovation Challenge (Extra 10%)
 
-Proposal Title: DocuMind – Intelligent Documentation Generator
+    Proposal Title: DocuMind – Intelligent Documentation Generator
 
 Purpose:
-A proposed AI-driven tool that automates software documentation by analyzing codebases, commit messages, and architecture files to produce structured, human-readable documentation.
+    A proposed AI-driven tool that automates software documentation by analyzing codebases, commit messages, and architecture files to produce structured, human-readable documentation.
 
 Workflow:
-
-Input source code repository.
-
-Natural Language Processing (NLP) engine analyzes code and comments.
-
-Generates technical summaries, UML diagrams, and Markdown/HTML docs.
+    
+    Input source code repository.
+    
+    Natural Language Processing (NLP) engine analyzes code and comments.
+    
+    Generates technical summaries, UML diagrams, and Markdown/HTML docs.
 
 Impact:
 
-Reduces developer workload in maintaining documentation.
-
-Enhances code readability and onboarding.
-
-Promotes consistency across software projects.
+    Reduces developer workload in maintaining documentation.
+    
+    Enhances code readability and onboarding.
+    
+    Promotes consistency across software projects.
 
 📄 Deliverables:
 
-Bonus_Task_AI_Tool_Proposal.docx
-
-Bonus_Task_AI_Tool_Proposal.pdf
+Bonus_Task_AI_Tool_Proposal
 
 🧰 Technologies Used
 
-Python 3.10+
-
-pandas, numpy, scikit-learn, matplotlib
-
-Jupyter Notebook
-
-IBM AI Fairness 360 (conceptual discussion)
-
-VS Code / Google Colab
-
-Git & GitHub for version control
+    Python 3.10+
+    
+    pandas, numpy, scikit-learn, matplotlib
+    
+    Jupyter Notebook
+    
+    IBM AI Fairness 360 (conceptual discussion)
+    
+    VS Code / Google Colab
+    
+    Git & GitHub for version control
 
 🚀 How to Run
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/AI_Week4_Assignment.git
-cd AI_Week4_Assignment
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open any notebook (e.g., Predictive_Model_Notebook.ipynb) in Jupyter or VS Code.
-
-Run cells sequentially to reproduce results.
+    git clone https://github.com/<your-username>/AI_Week4_Assignment.git
+    cd AI_Week4_Assignment
+    
+    
+    Install dependencies:
+    
+    pip install -r requirements.txt
+    
+    
+    Open any notebook (e.g., Predictive_Model_Notebook.ipynb) in Jupyter or VS Code.
+    
+    Run cells sequentially to reproduce results.
 
 ✅ Results Summary
 
-Cleaned and validated dataset successfully.
-
-Achieved reliable predictive model performance.
-
-Demonstrated ethical AI awareness through fairness and bias analysis.
-
-Proposed innovative solution improving software engineering workflows.
+    Cleaned and validated dataset successfully.
+    
+    Achieved reliable predictive model performance.
+    
+    Demonstrated ethical AI awareness through fairness and bias analysis.
+    
+    Proposed innovative solution improving software engineering workflows.
 
 🧩 Author
 
-Course: AI in Software Engineering – Week 4
-Institution: [Power Learn Project]
-Year: 2025
+    Course: AI in Software Engineering – Week 4
+    Institution: [Power Learn Project]
+    Year: 2025
 
 📜 License
+
+    This project is created for academic purposes and follows the principles of ethical AI development.
+    All code and documents are for educational use only.
+
 
 This project is created for academic purposes and follows the principles of ethical AI development.
 All code and documents are for educational use only.
