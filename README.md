@@ -1,6 +1,6 @@
 AI in Software Engineering – Week 4 Assignment
 
-📘 Overview
+  📘 Overview
 
   This repository contains all tasks and deliverables for the AI in Software Engineering Week 4 Assignment.
   It explores the integration of Artificial Intelligence (AI) into different software engineering practices such as automated testing, predictive analytics, and ethical AI reflection.
@@ -17,7 +17,11 @@ The objectives of this assignment are to:
     
     Innovate by proposing AI-based solutions to existing software development challenges.
 
+    
+
 🧩 Repository Structure
+
+
 ├── Part1_Theoretical_Analysis.pdf
 │   
 │── Part2_task1_code_completion.ipynb
@@ -41,7 +45,9 @@ The objectives of this assignment are to:
 │
 └── README.md
 
+
 🧠 Part 1: Theoretical Analysis
+
 
     This section provides written answers explaining key AI concepts applied in software engineering, including:
     
@@ -51,9 +57,11 @@ The objectives of this assignment are to:
     
     Predictive analytics for defect detection and code optimization.
 
-📄 Deliverable: Part1_Theoretical_Answers.pdf
+  📄 Deliverable: Part1_Theoretical_Answers.pdf
+  
 
 ⚙️ Part 2: Practical Applications
+
 Task 2: Automated Testing
 
     Implemented an AI-assisted automated testing process.
@@ -62,7 +70,8 @@ Task 2: Automated Testing
     
     Demonstrated how AI improves code coverage, error detection, and test prioritization.
 
-📄 Deliverable: Part2_task1_code_completion.ipynb
+  📄 Deliverable: Part2_task1_code_completion.ipynb
+  
 
 Task 3: Predictive Analytics
 
@@ -75,14 +84,16 @@ Task 3: Predictive Analytics
     Evaluated model accuracy using metrics like MAE, RMSE, and R².
     
     Discussed ethical implications and data fairness.
+    
 
-📊 Deliverables:
+📊 Deliverables:Part2_Task3_PredictiveAnalytics.ipynb
 
-Part2_Task3_PredictiveAnalytics.ipynb
-
-cleaned_dataset.csv
-
-Trained model file model.pkl
+  Part2_Task3_PredictiveAnalytics.ipynb
+  
+  cleaned_dataset.csv
+  
+  Trained model file model.pkl
+  
 
 🌍 Part 3: Ethical Reflection (10%)
 
@@ -97,8 +108,8 @@ Trained model file model.pkl
     
     Strategies to improve model transparency, accountability, and explainability.
 
-📄 Deliverables:
-Part 3_Ethical_Reflection.pdf
+📄 Deliverables:Part 3_Ethical_Reflection.pdf
+
 
 💡 Bonus Task: AI Innovation Challenge (Extra 10%)
 
@@ -123,9 +134,7 @@ Impact:
     
     Promotes consistency across software projects.
 
-📄 Deliverables:
-
-Bonus_Task_AI_Tool_Proposal
+📄 Deliverables:Bonus_Task_AI_Tool_Proposal
 
 🧰 Technologies Used
 
@@ -140,6 +149,8 @@ Bonus_Task_AI_Tool_Proposal
     VS Code / Google Colab
     
     Git & GitHub for version control
+
+    
 
 🚀 How to Run
 
@@ -158,7 +169,10 @@ Clone the repository:
     
     Run cells sequentially to reproduce results.
 
+    
+
 ✅ Results Summary
+
 
     Cleaned and validated dataset successfully.
     
@@ -167,18 +181,20 @@ Clone the repository:
     Demonstrated ethical AI awareness through fairness and bias analysis.
     
     Proposed innovative solution improving software engineering workflows.
+    
 
 🧩 Author
+
 
     Course: AI in Software Engineering – Week 4
     Institution: [Power Learn Project]
     Year: 2025
+    
 
 📜 License
+
 
     This project is created for academic purposes and follows the principles of ethical AI development.
     All code and documents are for educational use only.
 
 
-This project is created for academic purposes and follows the principles of ethical AI development.
-All code and documents are for educational use only.
