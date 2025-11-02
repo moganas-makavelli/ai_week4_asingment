@@ -1,21 +1,21 @@
 AI in Software Engineering – Week 4 Assignment
+
 📘 Overview
 
-This repository contains all tasks and deliverables for the AI in Software Engineering Week 4 Assignment.
-It explores the integration of Artificial Intelligence (AI) into different software engineering practices such as automated testing, predictive analytics, and ethical AI reflection.
-Additionally, it includes an innovation challenge proposing a new AI-driven tool for solving real-world software engineering problems.
+  This repository contains all tasks and deliverables for the AI in Software Engineering Week 4 Assignment.
+  It explores the integration of Artificial Intelligence (AI) into different software engineering practices such as automated testing, predictive analytics, and ethical AI reflection.
+  Additionally, it includes an innovation challenge proposing a new AI-driven tool for solving real-world software engineering problems.
 
 🧭 Learning Objectives
 
 The objectives of this assignment are to:
-
-Understand how AI enhances different aspects of software engineering.
-
-Apply machine learning techniques to practical predictive analytics tasks.
-
-Analyze the ethical implications of deploying AI models in organizations.
-
-Innovate by proposing AI-based solutions to existing software development challenges.
+    Understand how AI enhances different aspects of software engineering.
+    
+    Apply machine learning techniques to practical predictive analytics tasks.
+    
+    Analyze the ethical implications of deploying AI models in organizations.
+    
+    Innovate by proposing AI-based solutions to existing software development challenges.
 
 🧩 Repository Structure
 ├── Part1_Theoretical_Analysis.pdf
@@ -43,24 +43,24 @@ Innovate by proposing AI-based solutions to existing software development challe
 
 🧠 Part 1: Theoretical Analysis
 
-This section provides written answers explaining key AI concepts applied in software engineering, including:
+    This section provides written answers explaining key AI concepts applied in software engineering, including:
+    
+    AI-driven software testing and maintenance.
+    
+    Machine learning applications in software project estimation.
+    
+    Predictive analytics for defect detection and code optimization.
 
-AI-driven software testing and maintenance.
-
-Machine learning applications in software project estimation.
-
-Predictive analytics for defect detection and code optimization.
-
-📄 Deliverable: Week4_AI_in_Software_Engineering_Theoretical_Answers.docx and .pdf
+📄 Deliverable: Part1_Theoretical_Answers.and .pdf
 
 ⚙️ Part 2: Practical Applications
 Task 2: Automated Testing
 
-Implemented an AI-assisted automated testing process.
-
-Used Python’s testing libraries to analyze test outcomes.
-
-Demonstrated how AI improves code coverage, error detection, and test prioritization.
+    Implemented an AI-assisted automated testing process.
+    
+    Used Python’s testing libraries to analyze test outcomes.
+    
+    Demonstrated how AI improves code coverage, error detection, and test prioritization.
 
 📄 Deliverable: Automated_Testing_Script.ipynb
 
